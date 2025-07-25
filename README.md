@@ -1,2 +1,2 @@
-# Portfolio Projects from OSU Post-Bacc CS Program
-This repository is the home of all of the portfolio projects throughout my journey in the OSU Computer Science program. 
+# Portfolio Project for CS 162 - Chess Game
+This repository contains my CS 162 portfolio project which contains Python code for a Fog of War Chess Game. 
